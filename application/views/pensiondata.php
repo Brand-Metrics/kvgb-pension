@@ -74,11 +74,17 @@
 					  <td>COMMUTATION FACT</th>
 					  <td><?php echo $info[0]['COMMUTATION_FACT']; ?></th>
 					</tr>
-				 	<tr>
+					<tr>
 					  <td>DA</th>
 					  <td><?php echo $info[0]['DA']; ?></th>
 					  <td>TDS</th>
 					  <td><?php echo $info[0]['TDS']; ?></th>
+					</tr>
+					<tr>
+					  <td>Ex-gartia</th>
+					  <td><?php echo $info[0]['exgratia']; ?></th>
+					  <td></th>
+					  <td></th>
 					</tr>
 				 	<tr>
 					  <th scope="row">GROSS</th>
